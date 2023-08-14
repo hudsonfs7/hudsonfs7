@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hudson Souza</h1>
 <h3 align="center">A developer under construction, one code block at a time!</h3>
 
-- 🌱 I’m currently learning **Node, React, Front, Back**
+- 🌱 I’m currently learning **Node, React, Front & Backend**
 
 - 📫 How to reach me **hudsonfs7@hotmail.com**
 
